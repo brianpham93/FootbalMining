@@ -30,7 +30,7 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-
+        <label>Home Team</label>
         <%
             
             try {
@@ -80,6 +80,27 @@
              out.print(e.getMessage());
              }*/
         %>
+        <label>Away Team</label>
+        <%
+            try {
+                Connection con = ODBCConnection.ODBCconnection.getConnection();
+                Statement st = con.createStatement();
+                String queryString;
+                queryString = "SELECT Team FROM AwayResults";
+                ResultSet rs = st.executeQuery(queryString);
+                
+                out.println("<select>");
+                while (rs.next()) {
+                    String team = rs.getString("Team");
+                    out.println("<option value =" + team + ">" + team + "</option>");
+                }
+                out.println("</select>");
+            } catch (Exception e) {
+                out.print(e.getMessage());
+            }
+        %>
+        
+        <input type ="button" value ="Calculate">
     </body>
 
 
