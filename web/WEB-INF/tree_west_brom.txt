@@ -1,0 +1,110 @@
+Team = Arsenal
+|   Date = Autumn
+|   |   Place = A: Lose {Equal=0, Win=0, Lose=2}
+|   |   Place = H: Win {Equal=1, Win=1, Lose=0}
+|   Date = Spring: Lose {Equal=0, Win=0, Lose=3}
+|   Date = Summer: Lose {Equal=0, Win=1, Lose=1}
+|   Date = Winter: Lose {Equal=1, Win=0, Lose=1}
+Team = Aston Villa
+|   Date = Autumn: Lose {Equal=1, Win=1, Lose=1}
+|   Date = Spring: Equal {Equal=2, Win=1, Lose=0}
+|   Date = Summer: Lose {Equal=1, Win=0, Lose=1}
+|   Date = Winter
+|   |   Place = A: Lose {Equal=0, Win=0, Lose=2}
+|   |   Place = H: Lose {Equal=1, Win=0, Lose=1}
+Team = Birmingham
+|   Date = Summer: Lose {Equal=0, Win=1, Lose=1}
+|   Date = Winter: Equal {Equal=1, Win=1, Lose=0}
+Team = Blackburn
+|   Date = Autumn
+|   |   Place = A: Lose {Equal=0, Win=1, Lose=1}
+|   |   Place = H: Equal {Equal=1, Win=0, Lose=1}
+|   Date = Spring: Equal {Equal=1, Win=1, Lose=0}
+|   Date = Winter: Win {Equal=0, Win=1, Lose=1}
+Team = Blackpool: Lose {Equal=0, Win=1, Lose=1}
+Team = Bolton
+|   Place = A: Lose {Equal=2, Win=0, Lose=2}
+|   Place = H: Equal {Equal=3, Win=1, Lose=0}
+Team = Cardiff: Lose {Equal=1, Win=0, Lose=1}
+Team = Charlton: Lose {Equal=1, Win=0, Lose=1}
+Team = Chelsea
+|   Place = A: Lose {Equal=1, Win=0, Lose=5}
+|   Place = H: Lose {Equal=1, Win=2, Lose=3}
+Team = Crystal Palace: Win {Equal=0, Win=1, Lose=1}
+Team = Everton
+|   Date = Autumn: Win {Equal=0, Win=2, Lose=0}
+|   Date = Spring: Equal {Equal=1, Win=1, Lose=0}
+|   Date = Summer: Lose {Equal=1, Win=1, Lose=1}
+|   Date = Winter
+|   |   Place = A: Lose {Equal=0, Win=0, Lose=3}
+|   |   Place = H: Lose {Equal=1, Win=0, Lose=1}
+Team = Fulham
+|   Date = Autumn: Win {Equal=1, Win=2, Lose=0}
+|   Date = Summer: Equal {Equal=2, Win=0, Lose=1}
+|   Date = Winter
+|   |   Place = A: Lose {Equal=1, Win=0, Lose=3}
+|   |   Place = H: Lose {Equal=1, Win=0, Lose=1}
+Team = Hull
+|   Date = Autumn: Lose {Equal=1, Win=0, Lose=1}
+|   Date = Winter: Equal {Equal=1, Win=0, Lose=1}
+Team = Liverpool
+|   Date = Autumn: Lose {Equal=0, Win=0, Lose=4}
+|   Date = Spring: Lose {Equal=0, Win=2, Lose=2}
+|   Date = Summer: Lose {Equal=0, Win=1, Lose=1}
+|   Date = Winter: Win {Equal=1, Win=1, Lose=0}
+Team = Man City
+|   Place = A: Lose {Equal=1, Win=0, Lose=5}
+|   Place = H
+|   |   Date = Autumn: Lose {Equal=1, Win=2, Lose=3}
+Team = Man United
+|   Place = A: Lose {Equal=1, Win=1, Lose=4}
+|   Place = H: Lose {Equal=1, Win=0, Lose=5}
+Team = Middlesbrough
+|   Place = A: Equal {Equal=1, Win=1, Lose=0}
+|   Place = H: Lose {Equal=0, Win=1, Lose=1}
+Team = Newcastle
+|   Date = Autumn
+|   |   Place = A: Lose {Equal=0, Win=1, Lose=3}
+|   |   Place = H: Lose {Equal=0, Win=1, Lose=1}
+|   Date = Spring: Equal {Equal=2, Win=0, Lose=1}
+|   Date = Winter: Lose {Equal=0, Win=1, Lose=2}
+Team = Norwich
+|   Place = A: Win {Equal=0, Win=2, Lose=1}
+|   Place = H: Lose {Equal=0, Win=1, Lose=2}
+Team = Portsmouth
+|   Place = A: Lose {Equal=1, Win=0, Lose=1}
+|   Place = H: Win {Equal=1, Win=1, Lose=0}
+Team = QPR
+|   Place = A: Equal {Equal=1, Win=1, Lose=0}
+|   Place = H: Win {Equal=0, Win=2, Lose=0}
+Team = Reading: Win {Equal=0, Win=1, Lose=1}
+Team = Southampton: Win {Equal=0, Win=2, Lose=2}
+Team = Stoke
+|   Place = A
+|   |   Date = Autumn: Lose {Equal=1, Win=0, Lose=1}
+|   |   Date = Winter: Equal {Equal=2, Win=1, Lose=0}
+|   Place = H: Lose {Equal=0, Win=0, Lose=4}
+Team = Sunderland
+|   Date = Autumn: Lose {Equal=1, Win=1, Lose=1}
+|   Date = Spring: Win {Equal=0, Win=2, Lose=0}
+|   Date = Summer: Win {Equal=1, Win=2, Lose=0}
+|   Date = Winter: Win {Equal=0, Win=2, Lose=1}
+Team = Swansea: Lose {Equal=0, Win=2, Lose=4}
+Team = Tottenham
+|   Date = Autumn: Win {Equal=1, Win=2, Lose=1}
+|   Date = Spring: Equal {Equal=2, Win=0, Lose=1}
+|   Date = Summer: Equal {Equal=2, Win=0, Lose=0}
+|   Date = Winter: Lose {Equal=0, Win=0, Lose=3}
+Team = West Ham
+|   Place = A
+|   |   Date = Autumn: Equal {Equal=2, Win=0, Lose=1}
+|   |   Date = Winter: Equal {Equal=1, Win=0, Lose=1}
+|   Place = H: Equal {Equal=2, Win=2, Lose=1}
+Team = Wigan
+|   Place = A
+|   |   Date = Autumn: Lose {Equal=0, Win=1, Lose=2}
+|   |   Date = Winter: Win {Equal=1, Win=1, Lose=0}
+|   Place = H: Lose {Equal=1, Win=1, Lose=3}
+Team = Wolves
+|   Place = A: Lose {Equal=0, Win=1, Lose=1}
+|   Place = H: Equal {Equal=1, Win=1, Lose=0}
